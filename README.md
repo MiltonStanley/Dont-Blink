@@ -1,7 +1,7 @@
 Dont Blink
 ==========
 
-Microcontroller protection against Weeping Angels
+Microcontroller protection against [Weeping Angels](http://tardis.wikia.com/wiki/Weeping_Angel)
 
 HOW IT WORKS
 ------------
